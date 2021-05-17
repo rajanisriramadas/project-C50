@@ -1,0 +1,43 @@
+
+
+     
+
+     *{
+          border: solid plum;
+
+      }
+
+      h1 {
+        color: blueviolet;
+      }
+
+        .header
+        {
+            background-color: aquamarine;
+            display: flex;
+            justify-content: space-between;
+        }
+
+      
+        .grid
+        {
+           
+            display: flex;
+            justify-content: space-evenly;
+
+
+        }
+
+        h2{
+            color:purple
+        }
+        .menu
+        {
+            background-color: yellowgreen;
+        }
+        p{
+            color: tomato;
+            text-align: center;
+        }
+       
+   
